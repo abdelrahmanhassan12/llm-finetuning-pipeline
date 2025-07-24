@@ -1,0 +1,7 @@
+target_domain: "electric vehicle charging stations"
+use_case: "QA"
+data_sources:
+  - "PDFs"
+base_llm: "Llama-3-7B"
+
+
