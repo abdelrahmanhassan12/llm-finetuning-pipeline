@@ -308,15 +308,5 @@ python deployment/model_server.py --debug --model-path models/finetuned_model
 4. Run tests: `python orchestration/ci_cd.py --stage tests`
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Hugging Face Transformers for model implementations
-- PEFT library for parameter-efficient fine-tuning
-- Flask for the web API framework
-- All other open-source libraries used in this project
 
 
